@@ -1,0 +1,5 @@
+ID	Feature	Value
+1	Alpha	10.5
+2	Beta	24.2
+3	Gamma	15.8
+4	Delta	42.0
