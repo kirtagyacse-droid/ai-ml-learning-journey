@@ -13,3 +13,8 @@
 - **Lecture 8 (Object-Oriented Programming):** Explored classes, objects, methods, properties, and operator overloading.
 - **Code Added:** \`01_python_cs50/\` structured course tracking notes.
 - **Key Takeaway:** Strong Pythonic application and testing patterns established; ready for the final modules and NumPy.
+
+## [2026-07-12] - Data Visualization with Matplotlib
+- **Completed:** Bro Code's Comprehensive Matplotlib Tutorial.
+- **Code Added:** Core plotting scripts, multi-plot subplot configurations, and custom styled charts under \`04_matplotlib/\`.
+- **Key Takeaway:** Mastered data rendering pipelines. Ready to move onto Scikit-Learn to begin training actual machine learning models.
