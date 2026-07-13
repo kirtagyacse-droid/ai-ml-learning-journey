@@ -18,3 +18,8 @@
 - **Completed:** Bro Code's Comprehensive Matplotlib Tutorial.
 - **Code Added:** Core plotting scripts, multi-plot subplot configurations, and custom styled charts under \`04_matplotlib/\`.
 - **Key Takeaway:** Mastered data rendering pipelines. Ready to move onto Scikit-Learn to begin training actual machine learning models.
+
+## [2026-07-13] - Mathematics: Descriptive Statistics Foundations
+- **Completed:** Videos 2 & 3 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Central tendency (Mean, Median, Mode) and core measures of dispersion.
+- **Key Takeaway:** Understanding data distribution shapes is critical for pre-processing arrays before feeding them into models.
