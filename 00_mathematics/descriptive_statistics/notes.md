@@ -4,3 +4,4 @@
 ### 1. Measures of Central Tendency
 - **Mean:** The arithmetic average of the data distribution, highly sensitive to outliers.
 - **Median:** The middle value of a sorted dataset; acts as a robust metric against extreme skewness.
+- **Mode:** The most frequently occurring element in the dataset; useful for categorical data features.
