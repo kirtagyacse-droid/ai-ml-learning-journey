@@ -15,3 +15,4 @@
 ### 2. Quartiles & IQR
 - **Quartiles (Q1, Q2, Q3):** Splits data distributions into quarters. Q1 is the 25th percentile, Q2 is the median (50th), and Q3 is the 75th percentile.
 - **Interquartile Range (IQR):** Calculated as $IQR = Q3 - Q1$. Measures the statistical dispersion of the middle 50% of the dataset.
+### 3. Outlier Detection via Five-Number Summary
