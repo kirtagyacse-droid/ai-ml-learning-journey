@@ -23,3 +23,8 @@
 - **Completed:** Videos 2 & 3 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Central tendency (Mean, Median, Mode) and core measures of dispersion.
 - **Key Takeaway:** Understanding data distribution shapes is critical for pre-processing arrays before feeding them into models.
+
+## [2026-07-14] - Mathematics: Outlier Architecture & Percentiles
+- **Completed:** Video 4 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Percentiles, Quartiles, Interquartile Range (IQR), and Box Plot visualization theories.
+- **Key Takeaway:** Mastered the structural criteria used by libraries like Scikit-Learn and Pandas to filter out anomalies during data pipeline engineering.
