@@ -7,3 +7,5 @@
 - **Mode:** The most frequently occurring element in the dataset; useful for categorical data features.
 ### 2. Measures of Dispersion
 - **Variance & Standard Deviation:** Quantifies the spread or volatility of data points relative to the mean.
+
+## Topic: Percentiles, Quartiles & Box Plots
