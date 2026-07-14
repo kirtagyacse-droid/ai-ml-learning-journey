@@ -10,3 +10,4 @@
 
 ## Topic: Percentiles, Quartiles & Box Plots
 - **Source:** Video 4 of CampusX's Mathematics for ML playlist.
+### 1. Percentiles
