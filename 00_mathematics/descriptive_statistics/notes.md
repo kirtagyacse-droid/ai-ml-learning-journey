@@ -11,3 +11,4 @@
 ## Topic: Percentiles, Quartiles & Box Plots
 - **Source:** Video 4 of CampusX's Mathematics for ML playlist.
 ### 1. Percentiles
+- **Definition:** A metric indicating the value below which a given percentage of observations falls (e.g., the 80th percentile).
