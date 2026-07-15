@@ -17,3 +17,5 @@
 - **Interquartile Range (IQR):** Calculated as $IQR = Q3 - Q1$. Measures the statistical dispersion of the middle 50% of the dataset.
 ### 3. Outlier Detection via Five-Number Summary
 - **Box Plot Criteria:** Outliers are mathematically flagged if data points lie outside the fences: $[Q1 - 1.5 \times IQR, Q3 + 1.5 \times IQR]$.
+
+## Topic: Covariance, Correlation & Feature Relationships
