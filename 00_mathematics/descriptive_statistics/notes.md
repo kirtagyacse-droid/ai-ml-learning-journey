@@ -26,3 +26,4 @@
 ### 2. Pearson Correlation Coefficient
 - **Definition:** Scales covariance to a range between -1 and +1 by dividing it by the product of the standard deviations.
 - **Application:** Used during feature selection to drops collinear variables that introduce multi-collinearity errors into models.
+### 3. Correlation vs Causation
