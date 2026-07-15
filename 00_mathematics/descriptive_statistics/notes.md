@@ -24,3 +24,4 @@
 - **Definition:** Measures the directional relationship between two random variables.
 - **Limitation:** Only tells the direction (positive/negative), not the magnitude or strength, because it is scale-dependent.
 ### 2. Pearson Correlation Coefficient
+- **Definition:** Scales covariance to a range between -1 and +1 by dividing it by the product of the standard deviations.
