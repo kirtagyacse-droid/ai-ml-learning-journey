@@ -28,3 +28,8 @@
 - **Completed:** Video 4 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Percentiles, Quartiles, Interquartile Range (IQR), and Box Plot visualization theories.
 - **Key Takeaway:** Mastered the structural criteria used by libraries like Scikit-Learn and Pandas to filter out anomalies during data pipeline engineering.
+
+## [2026-07-15] - Mathematics: Covariance & Linear Dependencies
+- **Completed:** Video 5 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Bivariate analysis, Covariance directional behavior, Pearson Correlation scaling, and Collinearity criteria.
+- **Key Takeaway:** Mastered the structural dependencies used to execute manual feature selection algorithms on relational tabular data structures.
