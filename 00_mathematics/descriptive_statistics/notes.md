@@ -20,3 +20,4 @@
 
 ## Topic: Covariance, Correlation & Feature Relationships
 - **Source:** Video 5 of CampusX's Mathematics for ML playlist.
+### 1. Covariance
