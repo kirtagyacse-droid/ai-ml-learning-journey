@@ -21,3 +21,4 @@
 ## Topic: Covariance, Correlation & Feature Relationships
 - **Source:** Video 5 of CampusX's Mathematics for ML playlist.
 ### 1. Covariance
+- **Definition:** Measures the directional relationship between two random variables.
