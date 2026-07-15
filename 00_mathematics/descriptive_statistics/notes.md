@@ -23,3 +23,4 @@
 ### 1. Covariance
 - **Definition:** Measures the directional relationship between two random variables.
 - **Limitation:** Only tells the direction (positive/negative), not the magnitude or strength, because it is scale-dependent.
+### 2. Pearson Correlation Coefficient
