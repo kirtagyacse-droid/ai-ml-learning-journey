@@ -34,3 +34,4 @@
 ### 1. Random Variables
 - **Definition:** A variable whose values are numerical outcomes of a random phenomenon.
 ### 2. Types of Distributions
+- **Discrete Random Variable:** Has countable outcomes. Mapped using a Probability Mass Function (PMF).
