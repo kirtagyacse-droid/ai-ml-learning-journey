@@ -37,3 +37,4 @@
 - **Discrete Random Variable:** Has countable outcomes. Mapped using a Probability Mass Function (PMF).
 - **Continuous Random Variable:** Has infinite outcomes. Mapped using a Probability Density Function (PDF).
 ### 3. Cumulative Distribution Function (CDF)
+- **CDF:** Measures the probability that a random variable X takes a value less than or equal to x. Expressed as $F(x) = P(X \le x)$.
