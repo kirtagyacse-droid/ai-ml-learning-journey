@@ -30,3 +30,4 @@
 - **Key Rule:** High mathematical correlation between features does not imply that one variable causes the change in the other.
 
 ## Topic: Random Variables & Probability Distributions
+- **Source:** Video 6 of CampusX's Mathematics for ML playlist.
