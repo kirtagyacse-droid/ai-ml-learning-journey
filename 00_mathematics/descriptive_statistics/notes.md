@@ -33,3 +33,4 @@
 - **Source:** Video 6 of CampusX's Mathematics for ML playlist.
 ### 1. Random Variables
 - **Definition:** A variable whose values are numerical outcomes of a random phenomenon.
+### 2. Types of Distributions
