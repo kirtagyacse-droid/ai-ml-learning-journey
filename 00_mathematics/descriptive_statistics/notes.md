@@ -36,3 +36,4 @@
 ### 2. Types of Distributions
 - **Discrete Random Variable:** Has countable outcomes. Mapped using a Probability Mass Function (PMF).
 - **Continuous Random Variable:** Has infinite outcomes. Mapped using a Probability Density Function (PDF).
+### 3. Cumulative Distribution Function (CDF)
