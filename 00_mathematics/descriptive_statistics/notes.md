@@ -31,3 +31,4 @@
 
 ## Topic: Random Variables & Probability Distributions
 - **Source:** Video 6 of CampusX's Mathematics for ML playlist.
+### 1. Random Variables
