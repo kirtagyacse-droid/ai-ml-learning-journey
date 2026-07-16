@@ -28,3 +28,5 @@
 - **Application:** Used during feature selection to drops collinear variables that introduce multi-collinearity errors into models.
 ### 3. Correlation vs Causation
 - **Key Rule:** High mathematical correlation between features does not imply that one variable causes the change in the other.
+
+## Topic: Random Variables & Probability Distributions
