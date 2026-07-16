@@ -33,3 +33,8 @@
 - **Completed:** Video 5 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Bivariate analysis, Covariance directional behavior, Pearson Correlation scaling, and Collinearity criteria.
 - **Key Takeaway:** Mastered the structural dependencies used to execute manual feature selection algorithms on relational tabular data structures.
+
+## [2026-07-16] - Mathematics: Probability Distributions & Random Variables
+- **Completed:** Video 6 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Random variables, Discrete vs Continuous sample spaces, PMF, PDF, and CDF mathematical formulations.
+- **Key Takeaway:** Formed the core framework required to model feature densities during generative data processing steps.
