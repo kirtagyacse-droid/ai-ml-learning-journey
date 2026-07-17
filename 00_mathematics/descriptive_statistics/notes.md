@@ -42,3 +42,4 @@
 ## Topic: Probability Distributions & The Normal Distribution
 - **Source:** Video 7 of CampusX's Mathematics for ML playlist.
 ### 1. The Gaussian (Normal) Distribution
+- **Bell Curve:** Characterized by its symmetrical shape where the mean, median, and mode are all equal.
