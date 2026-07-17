@@ -38,3 +38,5 @@
 - **Continuous Random Variable:** Has infinite outcomes. Mapped using a Probability Density Function (PDF).
 ### 3. Cumulative Distribution Function (CDF)
 - **CDF:** Measures the probability that a random variable X takes a value less than or equal to x. Expressed as $F(x) = P(X \le x)$.
+
+## Topic: Probability Distributions & The Normal Distribution
