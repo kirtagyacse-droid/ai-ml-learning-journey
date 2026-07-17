@@ -46,3 +46,4 @@
 - **Empirical Rule (68-95-99.7):** Specifies the percentage of data falling within 1, 2, and 3 standard deviations from the mean.
 ### 2. Standard Normal Distribution & Z-Scores
 - **Z-Score Normalization:** Transforms a normal distribution to have a mean of 0 and a standard deviation of 1 using the formula: Z = (x - mean) / std.
+- **Application:** Critical for feature scaling pipelines before feeding data into distance-based algorithms like KNN or K-Means.
