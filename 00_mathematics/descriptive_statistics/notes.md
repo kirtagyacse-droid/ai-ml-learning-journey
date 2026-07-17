@@ -40,3 +40,4 @@
 - **CDF:** Measures the probability that a random variable X takes a value less than or equal to x. Expressed as $F(x) = P(X \le x)$.
 
 ## Topic: Probability Distributions & The Normal Distribution
+- **Source:** Video 7 of CampusX's Mathematics for ML playlist.
