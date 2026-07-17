@@ -41,3 +41,4 @@
 
 ## Topic: Probability Distributions & The Normal Distribution
 - **Source:** Video 7 of CampusX's Mathematics for ML playlist.
+### 1. The Gaussian (Normal) Distribution
