@@ -38,3 +38,8 @@
 - **Completed:** Video 6 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Random variables, Discrete vs Continuous sample spaces, PMF, PDF, and CDF mathematical formulations.
 - **Key Takeaway:** Formed the core framework required to model feature densities during generative data processing steps.
+
+## [2026-07-17] - Mathematics: Normal Distribution & Z-Score Scaling
+- **Completed:** Video 7 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Gaussian Distribution, Empirical Rule parameters, and Standard Normal Distribution transformations.
+- **Key Takeaway:** Mastered the mathematical scaling principles behind StandardScaler functions used in data preprocessing pipelines.
