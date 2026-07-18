@@ -50,3 +50,4 @@
 
 ## Topic: Skewness, Kurtosis & Data Transformations
 - **Source:** Video 8 of CampusX's Mathematics for ML playlist.
+### 1. Skewness
