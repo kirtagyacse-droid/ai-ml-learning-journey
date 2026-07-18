@@ -53,3 +53,4 @@
 ### 1. Skewness
 - **Asymmetry Metrics:** Measures the lack of symmetry in a distribution. Positive skew indicates a long tail to the right; negative skew indicates a long tail to the left.
 ### 2. Kurtosis
+- **Tail Heaviness:** Quantifies the combined weight of a distribution's tails relative to the center (Mesokurtic, Leptokurtic, and Platykurtic).
