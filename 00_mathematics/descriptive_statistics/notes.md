@@ -49,3 +49,4 @@
 - **Application:** Critical for feature scaling pipelines before feeding data into distance-based algorithms like KNN or K-Means.
 
 ## Topic: Skewness, Kurtosis & Data Transformations
+- **Source:** Video 8 of CampusX's Mathematics for ML playlist.
