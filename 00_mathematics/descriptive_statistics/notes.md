@@ -52,3 +52,4 @@
 - **Source:** Video 8 of CampusX's Mathematics for ML playlist.
 ### 1. Skewness
 - **Asymmetry Metrics:** Measures the lack of symmetry in a distribution. Positive skew indicates a long tail to the right; negative skew indicates a long tail to the left.
+### 2. Kurtosis
