@@ -43,3 +43,8 @@
 - **Completed:** Video 7 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Gaussian Distribution, Empirical Rule parameters, and Standard Normal Distribution transformations.
 - **Key Takeaway:** Mastered the mathematical scaling principles behind StandardScaler functions used in data preprocessing pipelines.
+
+## [2026-07-18] - Mathematics: Skewness, Kurtosis & Box-Cox Transforms
+- **Completed:** Video 8 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Skewness directionality, Kurtosis tail metrics, Log Transform, and Box-Cox pipelines.
+- **Key Takeaway:** Mastered feature transformation rules used to correct skewed datasets before training parametric models.
