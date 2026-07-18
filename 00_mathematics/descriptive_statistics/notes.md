@@ -55,3 +55,4 @@
 ### 2. Kurtosis
 - **Tail Heaviness:** Quantifies the combined weight of a distribution's tails relative to the center (Mesokurtic, Leptokurtic, and Platykurtic).
 ### 3. Power Transformations
+- **Normalizing Data:** Using mathematical functions like Log Transform and Box-Cox to stabilize variance and transform skewed data into a normal distribution.
