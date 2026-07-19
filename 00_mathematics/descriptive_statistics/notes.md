@@ -134,3 +134,4 @@
 - Verified properties of PMF, PDF, and Normal Distribution bell curves.
 - Verified properties of PMF, PDF, and Normal Distribution bell curves.
 - Verified properties of PMF, PDF, and Normal Distribution bell curves.
+- Skewness stabilization via Log and Box-Cox transforms finalized.
