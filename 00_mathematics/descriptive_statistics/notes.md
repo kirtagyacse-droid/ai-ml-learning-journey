@@ -58,3 +58,4 @@
 - **Normalizing Data:** Using mathematical functions like Log Transform and Box-Cox to stabilize variance and transform skewed data into a normal distribution.
 
 ## Topic: Comprehensive Review - Core Descriptive Statistics (Videos 2-8)
+- **Review Range:** Intensive review of Videos 2 through 8 of CampusX's Mathematics for ML playlist.
