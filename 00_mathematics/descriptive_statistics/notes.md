@@ -60,3 +60,4 @@
 ## Topic: Comprehensive Review - Core Descriptive Statistics (Videos 2-8)
 - **Review Range:** Intensive review of Videos 2 through 8 of CampusX's Mathematics for ML playlist.
 ### Phase 1: Central Tendency & Dispersion Re-evaluation
+- Verified Mean equations under heavy outlier skew conditions.
