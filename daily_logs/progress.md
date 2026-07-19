@@ -48,3 +48,8 @@
 - **Completed:** Video 8 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Skewness directionality, Kurtosis tail metrics, Log Transform, and Box-Cox pipelines.
 - **Key Takeaway:** Mastered feature transformation rules used to correct skewed datasets before training parametric models.
+
+## [2026-07-19] - Mathematics: Comprehensive Descriptive Statistics Revision
+- **Completed:** Mega-review session covering Videos 2 to 8 of CampusX Mathematics for ML playlist.
+- **Concepts Audited:** Mean/Median/Mode, IQR outlier detection formulas, Covariance/Correlation matrices, PMF/PDF/CDF mechanics, Normal Distributions, and Box-Cox power transformations.
+- **Key Takeaway:** Solidified the entire descriptive statistics segment. The mathematical pipeline is fully locked down and ready to transition into Inferential Statistics.
