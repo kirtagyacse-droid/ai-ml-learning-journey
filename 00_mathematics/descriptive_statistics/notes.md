@@ -112,3 +112,4 @@
 ### Phase 4: Density Estimation & Gaussian Transforms
 - Verified properties of PMF, PDF, and Normal Distribution bell curves.
 - Verified properties of PMF, PDF, and Normal Distribution bell curves.
+- Verified properties of PMF, PDF, and Normal Distribution bell curves.
