@@ -89,3 +89,4 @@
 - Analyzed Box Plot fence distribution criteria: Q1 - 1.5*IQR to Q3 + 1.5*IQR.
 - Analyzed Box Plot fence distribution criteria: Q1 - 1.5*IQR to Q3 + 1.5*IQR.
 - Analyzed Box Plot fence distribution criteria: Q1 - 1.5*IQR to Q3 + 1.5*IQR.
+### Phase 3: Bivariate Distributions & Collinearity Matrix Review
