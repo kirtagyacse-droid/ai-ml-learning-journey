@@ -103,3 +103,4 @@
 - Re-evaluated scale-dependence of Covariance versus standardized Pearson Correlation Coefficients.
 - Re-evaluated scale-dependence of Covariance versus standardized Pearson Correlation Coefficients.
 - Re-evaluated scale-dependence of Covariance versus standardized Pearson Correlation Coefficients.
+- Re-evaluated scale-dependence of Covariance versus standardized Pearson Correlation Coefficients.
