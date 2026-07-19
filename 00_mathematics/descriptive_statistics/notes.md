@@ -92,3 +92,4 @@
 ### Phase 3: Bivariate Distributions & Collinearity Matrix Review
 - Re-evaluated scale-dependence of Covariance versus standardized Pearson Correlation Coefficients.
 - Re-evaluated scale-dependence of Covariance versus standardized Pearson Correlation Coefficients.
+- Re-evaluated scale-dependence of Covariance versus standardized Pearson Correlation Coefficients.
