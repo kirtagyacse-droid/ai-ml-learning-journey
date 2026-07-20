@@ -53,3 +53,8 @@
 - **Completed:** Mega-review session covering Videos 2 to 8 of CampusX Mathematics for ML playlist.
 - **Concepts Audited:** Mean/Median/Mode, IQR outlier detection formulas, Covariance/Correlation matrices, PMF/PDF/CDF mechanics, Normal Distributions, and Box-Cox power transformations.
 - **Key Takeaway:** Solidified the entire descriptive statistics segment. The mathematical pipeline is fully locked down and ready to transition into Inferential Statistics.
+
+## [2026-07-20] - Mathematics: Sampling Distributions & Central Limit Theorem
+- **Completed:** Video 9 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Population vs Sample parameters, Sampling Distribution of the Mean, Central Limit Theorem (CLT) conditions, and Standard Error.
+- **Key Takeaway:** Understood why linear models and confidence intervals can safely assume normal error distributions in large datasets.
