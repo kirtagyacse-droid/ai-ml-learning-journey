@@ -21,3 +21,4 @@
 - Analyzing sample mean variability across repeated random draws of size n.
 ### 3. Central Limit Theorem (CLT)
 - **Core Rule:** As sample size n increases (typically n >= 30), the sampling distribution of the sample mean approaches a Normal Distribution regardless of the population distribution shape.
+- **Standard Error (SE):** Quantified as SE = sigma / sqrt(n), measuring the dispersion of sample means.
