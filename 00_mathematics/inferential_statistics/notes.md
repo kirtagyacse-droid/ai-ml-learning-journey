@@ -8,3 +8,4 @@
 - Analyzing sample mean variability across repeated random draws of size n.
 - Analyzing sample mean variability across repeated random draws of size n.
 - Analyzing sample mean variability across repeated random draws of size n.
+- Analyzing sample mean variability across repeated random draws of size n.
