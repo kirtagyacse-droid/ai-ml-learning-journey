@@ -29,3 +29,4 @@
 - Validating convergence rates to Gaussian profiles under sample size expansion.
 - Validating convergence rates to Gaussian profiles under sample size expansion.
 - Validating convergence rates to Gaussian profiles under sample size expansion.
+- Validating convergence rates to Gaussian profiles under sample size expansion.
