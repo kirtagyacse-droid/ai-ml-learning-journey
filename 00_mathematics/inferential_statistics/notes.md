@@ -24,3 +24,4 @@
 - **Standard Error (SE):** Quantified as SE = sigma / sqrt(n), measuring the dispersion of sample means.
 - Validating convergence rates to Gaussian profiles under sample size expansion.
 - Validating convergence rates to Gaussian profiles under sample size expansion.
+- Validating convergence rates to Gaussian profiles under sample size expansion.
