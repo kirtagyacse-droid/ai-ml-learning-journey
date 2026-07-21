@@ -46,3 +46,4 @@
 - **Point Estimate:** Single value estimate of a population parameter (e.g., sample mean).
 - **Interval Estimate:** Range of values within which the population parameter is expected to fall with a specified confidence level.
 ### 2. Confidence Level & Margin of Error
+- Calculating Margin of Error using critical Z-values (e.g., 1.96 for 95% CI) and Standard Error.
