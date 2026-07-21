@@ -41,3 +41,4 @@
 - Validating convergence rates to Gaussian profiles under sample size expansion.
 
 ## Topic: Point Estimation & Confidence Intervals
+- **Source:** Video 10 of CampusX's Mathematics for ML playlist.
