@@ -42,3 +42,4 @@
 
 ## Topic: Point Estimation & Confidence Intervals
 - **Source:** Video 10 of CampusX's Mathematics for ML playlist.
+### 1. Point Estimates vs Interval Estimates
