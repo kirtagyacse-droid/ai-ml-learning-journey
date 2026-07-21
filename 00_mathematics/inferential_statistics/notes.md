@@ -62,3 +62,4 @@
 - Calculating Margin of Error using critical Z-values (e.g., 1.96 for 95% CI) and Standard Error.
 ### 3. Mathematical Formulation
 - **Formula:** CI = Sample Mean +/- (Z_critical * (sigma / sqrt(n)))
+- Analyzing sample size impact on interval width and precision.
