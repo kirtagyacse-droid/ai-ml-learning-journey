@@ -58,3 +58,8 @@
 - **Completed:** Video 9 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Population vs Sample parameters, Sampling Distribution of the Mean, Central Limit Theorem (CLT) conditions, and Standard Error.
 - **Key Takeaway:** Understood why linear models and confidence intervals can safely assume normal error distributions in large datasets.
+
+## [2026-07-21] - Mathematics: Confidence Intervals & Point Estimation
+- **Completed:** Video 10 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Point estimates, Interval estimates, Confidence Levels (90%, 95%, 99%), Z-critical values, and Margin of Error calculations.
+- **Key Takeaway:** Mastered interval estimation required to quantify prediction uncertainty and construct error bounds in statistical ML models.
