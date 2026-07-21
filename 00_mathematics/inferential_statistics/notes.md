@@ -45,3 +45,4 @@
 ### 1. Point Estimates vs Interval Estimates
 - **Point Estimate:** Single value estimate of a population parameter (e.g., sample mean).
 - **Interval Estimate:** Range of values within which the population parameter is expected to fall with a specified confidence level.
+### 2. Confidence Level & Margin of Error
