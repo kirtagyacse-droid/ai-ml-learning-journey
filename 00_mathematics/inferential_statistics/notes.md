@@ -63,3 +63,4 @@
 ### 3. Mathematical Formulation
 - **Formula:** CI = Sample Mean +/- (Z_critical * (sigma / sqrt(n)))
 - Analyzing sample size impact on interval width and precision.
+- Analyzing sample size impact on interval width and precision.
