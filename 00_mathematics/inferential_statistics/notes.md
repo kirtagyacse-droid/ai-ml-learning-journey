@@ -80,3 +80,5 @@
 - Analyzing sample size impact on interval width and precision.
 - Analyzing sample size impact on interval width and precision.
 - Analyzing sample size impact on interval width and precision.
+
+## Topic: Hypothesis Testing & Z-Tests (Videos 11 & 12)
