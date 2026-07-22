@@ -90,3 +90,4 @@
 - **Type I Error (False Positive):** Rejecting H0 when it is true. Probability = Alpha.
 - **Type II Error (False Negative):** Failing to reject H0 when Ha is true. Probability = Beta.
 - Analyzing p-value decision rule: If p-value <= alpha, reject H0; else fail to reject H0.
+- Analyzing p-value decision rule: If p-value <= alpha, reject H0; else fail to reject H0.
