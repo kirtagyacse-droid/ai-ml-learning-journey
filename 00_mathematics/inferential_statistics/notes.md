@@ -86,3 +86,4 @@
 ### 1. Fundamentals of Hypothesis Testing
 - **Null Hypothesis (H0) vs Alternative Hypothesis (Ha):** H0 represents status quo/no effect; Ha represents the experimental claim.
 - **Level of Significance (Alpha):** Probability threshold (commonly 0.05) for rejecting H0.
+### 2. Type I/II Errors & P-Values
