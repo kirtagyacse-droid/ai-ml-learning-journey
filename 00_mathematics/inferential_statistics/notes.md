@@ -88,3 +88,4 @@
 - **Level of Significance (Alpha):** Probability threshold (commonly 0.05) for rejecting H0.
 ### 2. Type I/II Errors & P-Values
 - **Type I Error (False Positive):** Rejecting H0 when it is true. Probability = Alpha.
+- **Type II Error (False Negative):** Failing to reject H0 when Ha is true. Probability = Beta.
