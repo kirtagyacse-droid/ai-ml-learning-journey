@@ -83,3 +83,4 @@
 
 ## Topic: Hypothesis Testing & Z-Tests (Videos 11 & 12)
 - **Source:** Videos 11 & 12 of CampusX's Mathematics for ML playlist.
+### 1. Fundamentals of Hypothesis Testing
