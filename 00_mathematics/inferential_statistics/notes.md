@@ -82,3 +82,4 @@
 - Analyzing sample size impact on interval width and precision.
 
 ## Topic: Hypothesis Testing & Z-Tests (Videos 11 & 12)
+- **Source:** Videos 11 & 12 of CampusX's Mathematics for ML playlist.
