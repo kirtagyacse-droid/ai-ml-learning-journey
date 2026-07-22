@@ -106,3 +106,4 @@
 - **Test Statistic Formula:** Z = (x_bar - mu) / (sigma / sqrt(n))
 - Evaluating critical region boundaries for one-tailed and two-tailed Z-tests.
 - Evaluating critical region boundaries for one-tailed and two-tailed Z-tests.
+- Evaluating critical region boundaries for one-tailed and two-tailed Z-tests.
