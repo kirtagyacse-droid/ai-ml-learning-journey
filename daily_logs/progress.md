@@ -63,3 +63,8 @@
 - **Completed:** Video 10 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Point estimates, Interval estimates, Confidence Levels (90%, 95%, 99%), Z-critical values, and Margin of Error calculations.
 - **Key Takeaway:** Mastered interval estimation required to quantify prediction uncertainty and construct error bounds in statistical ML models.
+
+## [2026-07-22] - Mathematics: Hypothesis Testing & Z-Tests
+- **Completed:** Videos 11 & 12 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Null vs Alternative Hypotheses, Alpha/Beta risks, Type I/II errors, P-values, and One-Sample / Two-Sample Z-Tests.
+- **Key Takeaway:** Mastered statistical significance evaluation required for feature importance validation and A/B test pipeline designs.
