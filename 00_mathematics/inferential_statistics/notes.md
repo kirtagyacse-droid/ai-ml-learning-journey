@@ -84,3 +84,4 @@
 ## Topic: Hypothesis Testing & Z-Tests (Videos 11 & 12)
 - **Source:** Videos 11 & 12 of CampusX's Mathematics for ML playlist.
 ### 1. Fundamentals of Hypothesis Testing
+- **Null Hypothesis (H0) vs Alternative Hypothesis (Ha):** H0 represents status quo/no effect; Ha represents the experimental claim.
