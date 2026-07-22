@@ -103,3 +103,4 @@
 - Analyzing p-value decision rule: If p-value <= alpha, reject H0; else fail to reject H0.
 ### 3. Z-Test Mechanics (Video 12 Focus)
 - **One-Sample Z-Test:** Used when population variance is known and sample size n >= 30.
+- **Test Statistic Formula:** Z = (x_bar - mu) / (sigma / sqrt(n))
