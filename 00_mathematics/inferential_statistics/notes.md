@@ -101,3 +101,4 @@
 - Analyzing p-value decision rule: If p-value <= alpha, reject H0; else fail to reject H0.
 - Analyzing p-value decision rule: If p-value <= alpha, reject H0; else fail to reject H0.
 - Analyzing p-value decision rule: If p-value <= alpha, reject H0; else fail to reject H0.
+### 3. Z-Test Mechanics (Video 12 Focus)
