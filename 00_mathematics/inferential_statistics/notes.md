@@ -148,3 +148,4 @@
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
 ### 3. Test Statistic & Critical Region
 - **Test Statistic Formula:** t = (x_bar - mu) / (s / sqrt(n))
+- Comparing calculated t-value against critical value from t-table based on df and alpha.
