@@ -132,3 +132,4 @@
 - **When to Use:** Used when population standard deviation is unknown or sample size is small (n < 30).
 - **Degrees of Freedom (df):** Controls tail thickness; as df increases, the t-distribution approaches the standard normal distribution.
 ### 2. Classifications of t-Tests
+- **One-Sample t-Test:** Compares a sample mean against a known population mean.
