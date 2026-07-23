@@ -68,3 +68,8 @@
 - **Completed:** Videos 11 & 12 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Null vs Alternative Hypotheses, Alpha/Beta risks, Type I/II errors, P-values, and One-Sample / Two-Sample Z-Tests.
 - **Key Takeaway:** Mastered statistical significance evaluation required for feature importance validation and A/B test pipeline designs.
+
+## [2026-07-23] - Mathematics: Student's t-Distribution & t-Tests
+- **Completed:** Video 13 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Student's t-Distribution, Degrees of Freedom (df), One-Sample, Two-Sample, and Paired t-Tests.
+- **Key Takeaway:** Mastered hypothesis testing mechanics for real-world scenarios where population variance is unobserved.
