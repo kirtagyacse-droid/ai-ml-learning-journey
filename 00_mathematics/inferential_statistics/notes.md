@@ -129,3 +129,4 @@
 ## Topic: Student's t-Distribution & t-Tests (Video 13)
 - **Source:** Video 13 of CampusX's Mathematics for ML playlist.
 ### 1. Student's t-Distribution Fundamentals
+- **When to Use:** Used when population standard deviation is unknown or sample size is small (n < 30).
