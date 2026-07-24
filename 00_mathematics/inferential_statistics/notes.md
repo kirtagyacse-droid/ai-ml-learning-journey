@@ -175,3 +175,4 @@
 ### 2. Classifications of t-Tests
 - **One-Sample t-Test:** Compares a sample mean against a known population mean.
 - **Independent Two-Sample t-Test:** Compares means from two separate, independent groups.
+- **Paired Sample t-Test:** Compares means from the same group at two different times (pre/post intervention).
