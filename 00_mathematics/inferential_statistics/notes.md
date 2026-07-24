@@ -185,3 +185,4 @@
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
+- Evaluating assumption checks: normality, independence, and homoscedasticity.
