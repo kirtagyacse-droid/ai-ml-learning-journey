@@ -187,3 +187,4 @@
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
+### 3. Test Statistic & Critical Region
