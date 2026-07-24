@@ -168,3 +168,4 @@
 - Comparing calculated t-value against critical value from t-table based on df and alpha.
 
 ## Topic: Student's t-Distribution & t-Tests (Video 13)
+- **Source:** Video 13 of CampusX's Mathematics for ML playlist.
