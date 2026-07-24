@@ -188,3 +188,4 @@
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
 ### 3. Test Statistic & Critical Region
+- **Test Statistic Formula:** t = (x_bar - mu) / (s / sqrt(n))
