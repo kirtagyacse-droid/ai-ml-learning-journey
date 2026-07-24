@@ -73,3 +73,8 @@
 - **Completed:** Video 13 of CampusX Mathematics for ML playlist.
 - **Concepts Covered:** Student's t-Distribution, Degrees of Freedom (df), One-Sample, Two-Sample, and Paired t-Tests.
 - **Key Takeaway:** Mastered hypothesis testing mechanics for real-world scenarios where population variance is unobserved.
+
+## [2026-07-23] - Mathematics: Student's t-Distribution & t-Tests
+- **Completed:** Video 13 of CampusX Mathematics for ML playlist.
+- **Concepts Covered:** Student's t-Distribution, Degrees of Freedom (df), One-Sample, Two-Sample, and Paired t-Tests.
+- **Key Takeaway:** Mastered hypothesis testing mechanics for real-world scenarios where population variance is unobserved.
