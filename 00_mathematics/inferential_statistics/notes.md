@@ -202,3 +202,4 @@
 - Comparing calculated t-value against critical value from t-table based on df and alpha.
 - Comparing calculated t-value against critical value from t-table based on df and alpha.
 - Comparing calculated t-value against critical value from t-table based on df and alpha.
+- Comparing calculated t-value against critical value from t-table based on df and alpha.
