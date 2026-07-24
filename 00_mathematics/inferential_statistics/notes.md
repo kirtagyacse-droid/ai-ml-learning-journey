@@ -178,3 +178,4 @@
 - **Paired Sample t-Test:** Compares means from the same group at two different times (pre/post intervention).
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
 - Evaluating assumption checks: normality, independence, and homoscedasticity.
+- Evaluating assumption checks: normality, independence, and homoscedasticity.
