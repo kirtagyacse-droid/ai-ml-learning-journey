@@ -174,3 +174,4 @@
 - **Degrees of Freedom (df):** Controls tail thickness; as df increases, the t-distribution approaches the standard normal distribution.
 ### 2. Classifications of t-Tests
 - **One-Sample t-Test:** Compares a sample mean against a known population mean.
+- **Independent Two-Sample t-Test:** Compares means from two separate, independent groups.
