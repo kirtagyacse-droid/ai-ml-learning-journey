@@ -166,3 +166,5 @@
 - Comparing calculated t-value against critical value from t-table based on df and alpha.
 - Comparing calculated t-value against critical value from t-table based on df and alpha.
 - Comparing calculated t-value against critical value from t-table based on df and alpha.
+
+## Topic: Student's t-Distribution & t-Tests (Video 13)
